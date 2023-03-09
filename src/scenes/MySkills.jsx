@@ -102,7 +102,7 @@ const MySkills = () =>{
                                 viewport={{once:true , amount: 0.5 }}
                                 transition={{delay: 0.5,duration: 0.5}}
                                 variants={{
-                                    hidden: {opacity: 0, x: -40},
+                                    hidden: {opacity: 0, x: -30},
                                     visible: {opacity: 1, x: 0}
                                     }}
                                 >   
